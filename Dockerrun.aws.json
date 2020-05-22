@@ -1,0 +1,14 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Logging": "/tmp/sample-app",
+  "Image": {
+  	"Update": "false",
+    "Name": "requarks/wiki:2"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 3000,
+      "HostPort": 3000
+    }
+  ]
+}
