@@ -22,8 +22,8 @@ DB_SSL: false
   * Have the contents in this repository in a directory => zip it => "Upload and deploy" on Beanstalk environment.
 
 Links:
-```
+-----------
 [1]https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html
 [2]https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.environments.html
 [3]https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg-softwaresettings.html#environments-cfg-softwaresettings-console
-```
+
