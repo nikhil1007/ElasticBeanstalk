@@ -1,4 +1,4 @@
-# Deploying Wiki.js on Elastic Beanstalk
+# Deploying Wiki.js as a docker container on Elastic Beanstalk
 
 
 * Official documentation: https://wiki.js.org/
